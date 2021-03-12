@@ -1,0 +1,18 @@
+th,td{
+    width: 10%;
+    text-align: center;
+}
+img{
+    width: 350px;
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+}
+h3{
+    text-align: center;
+    color: brown;
+}
+.tabl{
+    color: cadetblue;
+}
